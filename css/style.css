@@ -24,6 +24,8 @@
 
 .profile-img {
   height: 100px;
+  width: 100px;
+  aspect-ratio: auto;
   border-radius: 50%;
 }
 

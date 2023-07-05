@@ -29,4 +29,11 @@
   border-radius: 50%;
 }
 
+.img-carousel {
+  height: 600px;
+  border-radius: 10px;
+  padding-left: 50px auto;
+  object-fit: cover;
+}
+
 

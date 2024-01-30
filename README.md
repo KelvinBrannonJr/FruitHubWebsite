@@ -1,2 +1,2 @@
 # FruitHub Website
-## A promo website that uses HTML, CSS, and Bootstrap 5.
+## A conceptional fruit delivery service that uses HTML, CSS, and Bootstrap 5.

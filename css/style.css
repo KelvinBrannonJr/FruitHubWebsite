@@ -35,15 +35,18 @@
 }
 
 .carousel-inner {
-  height: 500px;
+  max-height: 500px;
   width: 75%;
   margin: auto;
+  border-radius: 20px;
 }
 
-.carousel-item {
-  border-radius: 10px;
+.carousel-inner img {
+  max-width: 100%;
+  height: auto;
   object-fit: cover;
-} 
+}
+
 
 #fruit-hub-title, #fresh-fruit-desc {
   font-family: Arial, Helvetica, sans-serif;

@@ -53,6 +53,7 @@
   background-color: #f3ec78;
   background: linear-gradient(to bottom, #6300ff, #d400c3, #ff0083, #ff0049, #ff0d0d);
   background-size: 100%;
+  background-clip: text;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent; 
